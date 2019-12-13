@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\bin\Debug\MyCloudStoreApp.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\bin\Debug\MyCloudStoreApp.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\bin\Debug\MyCloudStoreApp.pdb
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\bin\Debug\MySql.Data.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\bin\Debug\Google.Protobuf.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\bin\Debug\Renci.SshNet.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\bin\Debug\MySql.Data.xml
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\obj\Debug\MyCloudStoreApp.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\obj\Debug\MyCloudStoreApp.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyCloudStoreApp\MyCloudStoreApp\obj\Debug\MyCloudStoreApp.pdb

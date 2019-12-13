@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCloudStoreApp", "MyCloudStoreApp\MyCloudStoreApp.csproj", "{74AE5965-B56B-4C01-B903-914B4A2BCC60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormClient", "WindowsFormClient\WindowsFormClient.csproj", "{3DB59AC2-29CE-4E77-B124-D8DB9ECFBC34}"
+	ProjectSection(ProjectDependencies) = postProject
+		{74AE5965-B56B-4C01-B903-914B4A2BCC60} = {74AE5965-B56B-4C01-B903-914B4A2BCC60}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74AE5965-B56B-4C01-B903-914B4A2BCC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AE5965-B56B-4C01-B903-914B4A2BCC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AE5965-B56B-4C01-B903-914B4A2BCC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AE5965-B56B-4C01-B903-914B4A2BCC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB59AC2-29CE-4E77-B124-D8DB9ECFBC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB59AC2-29CE-4E77-B124-D8DB9ECFBC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB59AC2-29CE-4E77-B124-D8DB9ECFBC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB59AC2-29CE-4E77-B124-D8DB9ECFBC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
